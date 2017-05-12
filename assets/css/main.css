@@ -35,7 +35,7 @@ nav {
     text-align: left;
     background-position: 50% 50%;
     background-repeat: no-repeat;
-    background-image: url(http://www.thenyegotist.com/sites/www.thenyegotist.com/files/images/huge%20logo-whiteonmagenta%20copy.png);
+    background-image: url(https://upload.wikimedia.org/wikipedia/en/d/d6/Huge_logo_1.jpg);
     /*background-image: url(http://lauxmeetup.com/wp-content/uploads/2015/05/huge.png);*/
     background-size: 130px 130px;
     /*http://accessland.org/img/logo-huge.png*/
@@ -200,7 +200,7 @@ nav.header-in {
 }
 
 nav.solid #logo .log {
-    background-image: url(http://lauxmeetup.com/wp-content/uploads/2015/05/huge.png);
+    background-image: url(http://www.thenyegotist.com/sites/www.thenyegotist.com/files/images/huge%20logo-whiteonmagenta%20copy.png);
 }
 
 .overflow-hidden {
@@ -208,5 +208,5 @@ nav.solid #logo .log {
 }
 
 nav.open #logo .logo {
-    background-image: url(http://lauxmeetup.com/wp-content/uploads/2015/05/huge.png);
+    background-image: url(http://www.thenyegotist.com/sites/www.thenyegotist.com/files/images/huge%20logo-whiteonmagenta%20copy.png);
 }
